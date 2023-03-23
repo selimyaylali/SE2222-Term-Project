@@ -10,7 +10,7 @@ At its core, hospital management system aims to simplify the workflow for clinic
 
 
 
-This pdf file contains the proposal for this project:
+The following pdf file contains the proposal for this project:
 
 [20070006072_TermProjectProposal.pdf](https://github.com/selimyaylali/SE2222-Term-Project/files/11057124/20070006072_TermProjectProposal.pdf)
 
